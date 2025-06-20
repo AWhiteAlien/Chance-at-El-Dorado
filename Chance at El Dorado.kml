@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Chance at El Dorado</name>
+	<gx:CascadingStyle kml:id="__managed_style_247F60790D38BE851366">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12C22DABE838BE851366">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F34D4463B38BE851366">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12C22DABE838BE851366</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_247F60790D38BE851366</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06B435D6DD38BE85133C">
+		<name>Forgotten Square 1</name>
+		<LookAt>
+			<longitude>-65.81668891987069</longitude>
+			<latitude>-13.04093209770172</latitude>
+			<altitude>154.3409814478389</altitude>
+			<heading>-10.53031793045502</heading>
+			<tilt>0.08196466258932847</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5928.611490532639</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.81970494252809,-13.0383168964922,159.8683294491334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F061176838BE8619CF">
+		<name>Forgotten Square 2?</name>
+		<LookAt>
+			<longitude>-65.80989958590524</longitude>
+			<latitude>-13.07362824778736</latitude>
+			<altitude>154.9333934096432</altitude>
+			<heading>-10.5099927448893</heading>
+			<tilt>0.08194945506816607</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4746.857271604822</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.80426123263936,-13.07273906055659,163.4379622529937</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03D0FC3C9738BE8669BF">
+		<name>Eye of the Basin</name>
+		<LookAt>
+			<longitude>-65.79745839977066</longitude>
+			<latitude>-13.11598852345814</latitude>
+			<altitude>147.533760370764</altitude>
+			<heading>-10.5173485133622</heading>
+			<tilt>0.08203500292314143</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11403.11262074509</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.7841775154933,-13.12240390900686,145.5409461918664</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B465A04038BE879487">
+		<name>Engineered Earthworks 1</name>
+		<LookAt>
+			<longitude>-66.02583556670324</longitude>
+			<latitude>-13.02574848634928</latitude>
+			<altitude>153.5853940966369</altitude>
+			<heading>10.92902433610611</heading>
+			<tilt>0.3135323139806942</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1697.114444999316</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-66.02547132956481,-13.02604964143307,152.4701956673587</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02551178A938BE881AE8">
+		<name>Engineered Earthworks 2</name>
+		<LookAt>
+			<longitude>-66.029699331705</longitude>
+			<latitude>-13.01100575288242</latitude>
+			<altitude>155.0180599281406</altitude>
+			<heading>10.92920508800628</heading>
+			<tilt>0.3135858524794323</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2785.378942887182</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-66.02764204894565,-13.01213695740227,155.0259027798863</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0183E494D838BE888B10">
+		<name>Engineered Earthworks 3</name>
+		<LookAt>
+			<longitude>-66.02183269274258</longitude>
+			<latitude>-12.99201501613051</latitude>
+			<altitude>150.1880831493949</altitude>
+			<heading>10.92752696066596</heading>
+			<tilt>0.3135439951206386</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1934.63384771836</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-66.02058563434777,-12.99303151549041,150.0743006417106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3399747538BE8A7587">
+		<name>Engineered Earthworks 4</name>
+		<LookAt>
+			<longitude>-65.83035687058164</longitude>
+			<latitude>-13.05222362719383</latitude>
+			<altitude>149.9967673279069</altitude>
+			<heading>10.88121500648922</heading>
+			<tilt>0.313731166043454</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5739.677713274723</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.82453107367246,-13.06081871440553,149.9601719921975</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF833107E38BE8B56C0">
+		<name>Strange V w/ Teardrop (Paleo River?)</name>
+		<LookAt>
+			<longitude>-65.86360682363565</longitude>
+			<latitude>-13.2208278904992</latitude>
+			<altitude>150.0463784799656</altitude>
+			<heading>10.88527849275516</heading>
+			<tilt>0.3140655169717282</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12535.87718229974</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.86157173659267,-13.22858343315798,165.3163836420586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E669024E038BE8BF77F">
+		<name>Submerged Terrain</name>
+		<LookAt>
+			<longitude>-65.92207110856904</longitude>
+			<latitude>-13.08516864500493</latitude>
+			<altitude>145.4735763515781</altitude>
+			<heading>10.89956416419422</heading>
+			<tilt>0.3139326069907453</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9834.379269441124</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F34D4463B38BE851366</styleUrl>
+		<Point>
+			<coordinates>-65.92144098442273,-13.0884527698888,145.4946727173848</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
