@@ -6,9 +6,20 @@ Each file below corresponds to a major phase or topic of the project:
 
 ### 🔹 Log Index
 
-1. **Chance at El Dorado** → `1. Chat Logs Chance at El Dorado.pdf`  
-2. **Boi-Bumbá Festival Explained** → `2. Chat Logs Boi-Bumbá Festival Explained.pdf`  
-3–10. **All Remaining Logs** → 📦 `Chat Logs 3–10.zip`
+All 10 logs listed below are included inside the ZIP archive:
+📦 **Katara_Chat_Logs_Chance_at_El_Dorado.zip**
+
+1. **Chance at El Dorado**  
+2. **Boi-Bumbá Festival Explained**  
+3. **Ancient City Ziggurat Design**  
+4. **Hovering Minotaur Spirit Guardian**  
+5. **Finalized Label Names**  
+6. **El Dorado Hypothesis Proposal**  
+7. **Document Cleanup Assistance**  
+8. **El Dorado Final Theory**  
+9. **El Dorado Final Packets**  
+10. **Final Build Steps**
+
 
 All PDFs are included in this folder for transparency, reference, and public archival.
 
