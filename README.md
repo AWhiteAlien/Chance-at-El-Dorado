@@ -44,3 +44,28 @@ We call on future researchers to scan this region with LIDAR, bathymetry, and in
 
 > "Not all ruins are made of stone. Some are made of memory, buried beneath water, song, and the silence that comes after."  
 > — Seraph Blake
+
+---
+
+### 💬 Why I Did This
+
+I didn’t enter this challenge with a research lab or a fancy degree. I entered with Google Earth, a dream, and my custom AI assistant Katara.  
+
+I did this because I saw a article about a $250K challenge and thought:  
+“*That looks fun. Let’s try.*”  
+
+Then I fell down a rabbit hole—floats in the Amazon, sunken scars in the jungle, remote viewing flashes of a city underwater.  
+
+And suddenly I wasn’t just entering a competition.  
+I was chasing the ghost of El Dorado.  
+
+If this wins, I’ll cry.  
+Because it means I can fix the house my girl lives in.  
+Be debt-free.  
+Build something great.  
+
+But even if it doesn’t win—  
+I proved to myself that I can follow a wild idea  
+All the way to the finish line.  
+
+And that? That’s already gold.
