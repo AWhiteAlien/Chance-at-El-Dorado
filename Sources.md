@@ -31,3 +31,14 @@ This paper presents multi-proxy environmental data and core sediment analysis, r
 **Street View Link:** [Caprichoso Float Studio on Google Maps](https://www.google.com/maps/place/Galp%C3%A3o+Central+do+Boi+Caprichoso/@-2.62041,-56.73645,21z)
 
 The Caprichoso warehouse features mythic floats—serpent guardians, bulls, forest spirits—that parallel flood-based collapse myths. These iconographies may encode ancestral memory of environmental trauma or sacred geography.
+
+🛰️ 4. LIDAR Mapping of Ancient Settlements – ScienceNews.org
+
+**Title:** Lasers reveal ancient urban sprawl hidden in the Amazon  
+**Author:** Bruce Bower (2022)  
+**Publisher:** Science News  
+**Summary:** Highlights a pivotal LiDAR survey across southeastern Amazonia that uncovered road grids, canal networks, and ancient urban settlement clusters—supporting the plausibility of pre-Columbian engineering on a massive scale.
+
+🔗 [Read Article](https://www.sciencenews.org/article/amazon-ancient-urban-cities-lidar-scan)
+
+📍 **Visual Used:** Screenshot of the lead image showing LiDAR-based terrain patterns—used as contextual reference in El Dorado theory packet.
