@@ -1,5 +1,15 @@
 # Chance at El Dorado – Lost Amazonian Civilization Theory
 
+A myth-informed and satellite-based research proposal exploring the possibility that Lago Rogaguado in Bolivia conceals remnants of a lost Amazonian civilization. This theory draws on flood myths, visual terrain analysis, and cultural echoes from the Boi-Bumbá festival.
+
+## 📦 Project Contents
+- 📄 Final Submission Packet (PDF + DOCX)
+- 🛰️ Satellite Imagery Archive
+- 🐂 AI-generated and real-world cultural visuals
+- 🧠 Research chat logs & source reference docs
+
+Submitted for the [OpenAI to Z Challenge](https://kaggle.com/competitions/openai-to-z). Created by [AWhiteAlien](https://github.com/AWhiteAlien).
+
 ## 🔍 Project Overview
 This project explores the possibility that the Lago Rogaguado basin in Bolivia may conceal the buried remains of a lost ceremonial city or engineered settlement. Built with GPT-4, open-source satellite tools, and mythic decoding, this theory was developed for the **OpenAI to Z Challenge**.
 
